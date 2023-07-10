@@ -1,7 +1,8 @@
 # tg_reminder
 
-<div id="header" align="center">
+<div id="header" align="">
   <img src="https://media.giphy.com/media/OgVq93mv2opOdWbXod/giphy.gif" width="300"/>
+  
 </div>
 
 Бот-напоминалка в Telegram представляет собой програмную систему, разработанную на языке программирования Python с использованием библиотеки telebot. Этот бот позволяет пользователям создавать встречи, устанавливать напоминания и удалять встречи.
